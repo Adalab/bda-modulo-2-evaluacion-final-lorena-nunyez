@@ -1,1 +1,1 @@
-# bda-modulo-2-evaluacion-final-lorena-nunyez
+Ejercicio técnico módulo 2.
